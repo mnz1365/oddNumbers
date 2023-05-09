@@ -1,3 +1,3 @@
 # oddNumbers
 
-add the odd numbers to list.
+add the odd numbers to new list.
